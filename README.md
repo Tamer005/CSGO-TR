@@ -1,0 +1,2 @@
+# CSGO-TR
+Discord Botu
